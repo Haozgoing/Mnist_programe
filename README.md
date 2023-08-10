@@ -8,3 +8,5 @@ train-labels-idx1-ubyte     训练集图片对应的标签
 t10k-images-idx3-ubyte      10000张测试集
 
 t10k-labels-idx1-ubyte      测试集图片对应的标签
+
+![Uploading 9242d1bf3a723c86f76795e70db5613.png…]()
